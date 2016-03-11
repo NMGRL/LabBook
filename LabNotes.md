@@ -1,0 +1,2 @@
+- 3/10/2016 6 pm activated AP-10 and D50 getters in microbone for 30 minutes
+- 3/11/2016 2 pm getters still burping as much as 3 fA 
